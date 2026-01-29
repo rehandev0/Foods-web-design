@@ -6,8 +6,7 @@ A modern and responsive **organic food website UI** built using **HTML, CSS, and
 
 ## 📸 Homepage Preview
 
-![Homepage](img/vege-home.png)
-
+![Homepage Preview](img/vege-home.png)
 
 ## 🚀 Features
 
