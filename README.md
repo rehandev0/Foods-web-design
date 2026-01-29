@@ -1,1 +1,33 @@
-# Foods-web-design
+# 🌿 GreenHarvest
+
+A modern and responsive **organic food website UI** built using **HTML, CSS, and Bootstrap**.
+
+---
+
+## 📸 Homepage Preview
+
+![Homepage](img/vege-home.png.png)
+
+
+## 🚀 Features
+
+- Fully responsive layout
+- Clean & modern UI
+- Bootstrap grid system
+- Beginner-friendly code structure
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+
+---
+
+## 👨‍💻 Author
+
+**rehandev0**
+
+⭐ Feel free to star this repository if you like it!
